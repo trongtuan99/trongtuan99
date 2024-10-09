@@ -7,8 +7,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trongtuan99&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=trongtuan99&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=trongtuan99&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=trongtuan99&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -50,5 +50,11 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/trongtuan99/trongtuan99/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trongtuan99&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
+</div>
 
 ###
